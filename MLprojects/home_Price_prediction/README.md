@@ -10,10 +10,12 @@ Dependant variable (feature)
 This project is straight forward example for multi value linear regression model
 
 
-Prerequisite
+Prerequisite:
+
 The project was developed using jupyter notebook (version 5.5.7) with Python 3.
 To run this project, following libraries needs to be installed - if you are not using IDEs like anaconda
 
 Pandas
+numpy
 Matplotlib
 Sklearn
